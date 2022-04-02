@@ -14,8 +14,8 @@
 | Jack | 10 |
 | Queen | 10 |
 | King | 10 |
-| Sum | 85 |
-| Avg | 6.54 |
+| **Sum** | 85 |
+| **Avg** | 6.54 |
 
 When hitting, the average value of the next card is 6.54
 
