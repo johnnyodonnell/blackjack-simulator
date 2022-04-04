@@ -99,7 +99,7 @@
           (string-append
             (outcome->string outcome)
             "\t"
-            (number->string
+            (commatize
               (hash-ref outcomes-table outcome))
             "\t"
             (number->string
